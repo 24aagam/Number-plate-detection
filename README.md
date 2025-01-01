@@ -21,12 +21,12 @@ This project demonstrates a simple and effective approach to **number plate dete
    ```bash
    python -m venv venv
    ```
-   - **On Windows:**
-     ```bash
+- **On Windows:**
+  ```bash
      venv\Scripts\activate
 
-   - **On macOS/Linux:**
-     ```bash
+- **On macOS/Linux:**
+  ```bash
      source venv/bin/activate
 3. Install dependencies:
    ```bash
